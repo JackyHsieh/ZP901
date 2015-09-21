@@ -5,4 +5,4 @@ hello kitty
 hello Glee
 
 
-這是一個新功能，我從 addbutton 這個分支上開發
+我覺得這個功能比較帥
