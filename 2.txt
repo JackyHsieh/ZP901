@@ -3,3 +3,6 @@ hello 901 iOS App Class
 hello Blue Monday
 hello kitty
 hello Glee
+
+
+這是一個新功能，我從 addbutton 這個分支上開發
